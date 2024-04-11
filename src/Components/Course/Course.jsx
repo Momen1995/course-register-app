@@ -1,7 +1,7 @@
 import { LuDollarSign } from "react-icons/lu";
 import { IoMdBook } from "react-icons/io";
 
-const Course = ({ course }) => {
+const Course = ({ course, handleCourseName }) => {
   const { img, course_name, credit, price, detail } = course;
   return (
     <div className="h-[460px] bg-[#fff] shadow-lg">
@@ -22,7 +22,12 @@ const Course = ({ course }) => {
           </p>
         </div>
         <div className="bg-[#2F80ED] w-10/12 mx-auto my-3 flex justify-center">
-          <button className="p-2 text-white font-bold">Select</button>
+          <button
+            className="p-2 text-white font-bold"
+            onClick={()=> handleCourseName(course)}
+          >
+            Select
+          </button>
         </div>
       </div>
     </div>
