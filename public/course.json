@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Introduction to Python Programming",
+    "credit": 3,
+    "price": 5050.99,
+    "detail": "Learn the basics of Python programming language, including variables, data types, loops, and functions."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Web Development with HTML, CSS, and JavaScript",
+    "credit": 4,
+    "price": 5069.99,
+    "detail": "Master the essentials of web development by learning HTML for structure, CSS for styling, and JavaScript for interactivity."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Machine Learning Fundamentals",
+    "credit": 5,
+    "price": 5089.99,
+    "detail": "Discover the core concepts of machine learning, including supervised and unsupervised learning, regression, and classification."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Data Analysis with Python",
+    "credit": 4,
+    "price": 5079.99,
+    "detail": "Learn how to analyze and visualize data using Python libraries such as Pandas, NumPy, and Matplotlib."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Mobile App Development with React Native",
+    "credit": 4,
+    "price": 5099.99,
+    "detail": "Build cross-platform mobile applications using React Native, including navigation, state management, and APIs."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Ethical Hacking and Cybersecurity",
+    "credit": 5,
+    "price": 5109.99,
+    "detail": "Explore the fundamentals of ethical hacking, penetration testing, and cybersecurity best practices."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Financial Markets and Investment Strategies",
+    "credit": 3,
+    "price": 5059.99,
+    "detail": "Gain insight into financial markets, investment strategies, and portfolio management techniques."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Graphic Design Essentials",
+    "credit": 3,
+    "price": 5049.99,
+    "detail": "Learn the fundamentals of graphic design, including typography, color theory, and layout principles."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/XLSMJyY/phyton.jpg",
+    "course_name": "Photography Masterclass",
+    "credit": 2,
+    "price": 5039.99,
+    "detail": "Master the art of photography, including composition, lighting techniques, and post-processing skills."
+  }
+]
